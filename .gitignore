@@ -31,6 +31,9 @@ log.txt
 
 # Node
 /node_modules
+/android/
+/ios/
+/www/
 npm-debug.log
 yarn-error.log
 
